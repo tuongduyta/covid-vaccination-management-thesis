@@ -27,3 +27,9 @@
 4. Starting implementing back-end (week 4 + 5)
 5. Testing + blabla (week 6)
 6. Thesis paper (week 7 + 8 + 9)
+
+### Demonstration
+1. Navigate to this url: https://tan-thesis.netlify.app/login
+2. Input the gmail and passowrd to access into system: tan@gmail.com/ 123456
+
+
